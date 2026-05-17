@@ -3,8 +3,8 @@
 <package format="3">
   <name>odometry</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="rcafreeskates@gmail.com">malinkyo</maintainer>
+  <description>odometry package</description>
+  <maintainer email="rcafreeskates@gmail.com">Roberto Carrillo Aguilar</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
